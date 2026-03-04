@@ -6,7 +6,7 @@ Zhili Wastewater · Digital Twin Simulation System
 Pharmaceutical wastewater treatment comparison: Electro-Fenton vs Ozone Oxidation
 
 Authors: 刘松奎, 王赞宇, 郑崇勋, 郭子鑫, 阮天佑
-Institution: 华中科技大学网络空间安全学院
+Institution: 华中科技大学能源与动力工程学院
 """
 
 import numpy as np
